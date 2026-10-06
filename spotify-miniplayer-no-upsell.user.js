@@ -1,12 +1,17 @@
 // ==UserScript==
 // @name         Spotify Miniplayer - hide Premium upsell
-// @namespace    welch
-// @version      1.0
+// @namespace    MosheWelcher
+// @author       MosheWelcher
+// @version      1.1
 // @description  Hides the "You discovered a Premium feature" popup when the Spotify web miniplayer (Document PiP) is made small.
 // @match        https://open.spotify.com/*
 // @run-at       document-start
 // @grant        none
 // @license      GPL-3.0-or-later
+// @homepageURL  https://github.com/MosheWelcher/spotify-miniplayer-no-upsell
+// @supportURL   https://github.com/MosheWelcher/spotify-miniplayer-no-upsell/issues
+// @updateURL    https://raw.githubusercontent.com/MosheWelcher/spotify-miniplayer-no-upsell/main/spotify-miniplayer-no-upsell.user.js
+// @downloadURL  https://raw.githubusercontent.com/MosheWelcher/spotify-miniplayer-no-upsell/main/spotify-miniplayer-no-upsell.user.js
 // ==/UserScript==
 
 (() => {
