@@ -20,3 +20,7 @@ When the miniplayer opens (`documentPictureInPicture` `enter` event), the script
 PiP document and hides the popup's container. Spotify gives the popup no stable class or
 test id, so it is matched by its English text. If Spotify changes the wording or you use
 another language, edit `MARKERS` at the top of the script.
+
+## License
+
+[GPL-3.0-or-later](LICENSE)
